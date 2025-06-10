@@ -1,4 +1,4 @@
-🖥️ # Controle de Gastos
+# 🖥️ Controle de Gastos
 
 Projeto reformulado do projeto anterior, para praticar POO mais completo e Modularização.
 
